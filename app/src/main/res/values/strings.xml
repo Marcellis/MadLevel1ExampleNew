@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MadLevel1ExampleNew</string>
+    <string name="starttext">What Kind of Animal is this?</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="giraffe">Giraffe</string>
+    <string name="confirm">Confirm</string>
 </resources>
